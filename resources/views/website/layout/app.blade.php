@@ -6,6 +6,7 @@
         @yield('title')
         @yield('description')
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noindex, nofollow">
         <link rel="shortcut icon" href="{!! asset('assets/images/favicon.png') !!}" type="image/png">
         <link rel="stylesheet" href="{!! asset('assets/css/slick.css') !!}">
         <link rel="stylesheet" href="{!! asset('assets/css/lineicons.css') !!}">
