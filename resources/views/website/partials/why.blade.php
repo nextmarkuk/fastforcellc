@@ -1,10 +1,10 @@
-<section id="why" class="features_area pt-100 pb-100 blue-bg">
+<section id="why" class="features_area pt-50 pb-50 blue-bg">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-7">
+            <div class="col-lg-9">
                 <div class="section_title text-center pb-10">
-                    <h4 class="sub_title">Why Choose Us?</h4>
-                    <h3 class="title">We Provide Professional Financial Services For Business</h3>
+                    <h4 class="sub_title">Why FastForce?</h4>
+                    <h3 class="title">Your One-Window Virtual Assistant & Full-Stack Support Platform.</h3>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
@@ -37,8 +37,8 @@
                         <i class="lni lni-briefcase"></i>
                     </div>
                     <div class="features_content">
-                        <h4 class="features_title"><a href="#">Experienced</a></h4>
-                        <p>Lorem ipsum dolor aconsetet dorem ipsum dolor aconsetetur sadipscing  sed diamn numy eirmod </p>
+                        <h4 class="features_title"><a href="#">Office Based</a></h4>
+                        <p>Full-time human virtual assistants</p>
                     </div>
                 </div> <!-- single features -->
             </div>
@@ -48,8 +48,8 @@
                         <i class="lni lni-headphone-alt"></i>
                     </div>
                     <div class="features_content">
-                        <h4 class="features_title"><a href="#">Dedicated</a></h4>
-                        <p>Lorem ipsum dolor aconsetet dorem ipsum dolor aconsetetur sadipscing  sed diamn numy eirmod </p>
+                        <h4 class="features_title"><a href="#">Office Based</a></h4>
+                        <p>Full-time human virtual assistants</p>
                     </div>
                 </div> <!-- single features -->
             </div>

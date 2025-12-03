@@ -1,4 +1,7 @@
 @extends('website.layout.app')
+@section('title')
+<title>FastForce — Your One-Window Virtual Assistant & Full-Stack Support Platform.</title>
+@endsection
 @section('content')
     <!--====== BRAND PART START ======-->
     @include('website.partials.brand')
