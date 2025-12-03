@@ -12,7 +12,7 @@
             <div class="col-lg-6">
                 <div class="single_blog mt-30">
                     <div class="blog_image">
-                        <img src="assets/images/blog-1.jpg" alt="blog">
+                        <img src="{{ asset('assets/images/blog-1.jpg') }}" alt="blog">
                     </div>
                     <div class="blog_content">
                         <h4 class="blog_title"><a href="#">10 Tips to Grow Your Business</a></h4>
@@ -24,7 +24,7 @@
             <div class="col-lg-6">
                 <div class="single_blog mt-30">
                     <div class="blog_image">
-                        <img src="assets/images/blog-2.jpg" alt="blog">
+                        <img src="{{ asset('assets/images/blog-2.jpg') }}" alt="blog">
                     </div>
                     <div class="blog_content">
                         <h4 class="blog_title"><a href="#">How to Make Your Strategy Work</a></h4>

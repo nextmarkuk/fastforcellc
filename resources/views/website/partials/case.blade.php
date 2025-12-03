@@ -14,7 +14,7 @@
             <div class="col-lg-4">
                 <div class="single_case mt-30">
                     <div class="case_image">
-                        <img src="assets/images/case-1.jpg" alt="case">
+                        <img src="{{ asset('assets/images/case-1.jpg') }}" alt="case">
                     </div>
                     <div class="case_content">
                         <h5 class="case_title"><a href="#">New Corporate Responsibility Metrics</a></h5>
@@ -26,7 +26,7 @@
             <div class="col-lg-4">
                 <div class="single_case mt-30">
                     <div class="case_image">
-                        <img src="assets/images/case-2.jpg" alt="case">
+                        <img src="{{ asset('assets/images/case-2.jpg') }}" alt="case">
                     </div>
                     <div class="case_content">
                         <h5 class="case_title"><a href="#">Searching for a Search Fund Structure</a></h5>
@@ -38,7 +38,7 @@
             <div class="col-lg-4">
                 <div class="single_case mt-30">
                     <div class="case_image">
-                        <img src="assets/images/case-3.jpg" alt="case">
+                        <img src="{{ asset('assets/images/case-3.jpg') }}" alt="case">
                     </div>
                     <div class="case_content">
                         <h5 class="case_title"><a href="#">Shake Shack IPO</a></h5>

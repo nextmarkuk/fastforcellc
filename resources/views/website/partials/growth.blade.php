@@ -17,12 +17,12 @@
             </div>
             <div class="col-lg-6">
                 <div class="growth_image mt-50">
-                    <img class="image" src="assets/images/screenshot.jpg" alt="screenshot">
+                    <img class="image" src="{{ asset('assets/images/screenshot.jpg') }}" alt="screenshot">
                 </div> <!-- growth image -->
             </div>
         </div> <!-- row -->
     </div> <!-- container -->
     <div class="growth_shape">
-        <img class="shape" src="assets/images/shape-2.svg" alt="shape">
+        <img class="shape" src="{{ asset('assets/images/shape-2.svg') }}" alt="shape">
     </div>
 </section>

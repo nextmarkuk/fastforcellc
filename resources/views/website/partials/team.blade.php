@@ -12,7 +12,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="single_team text-center mt-30 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.2s">
                     <div class="team_image">
-                        <img src="assets/images/team-1.jpg" alt="team">
+                        <img src="{{ asset('assets/images/team-1.jpg') }}" alt="team">
                         <ul class="social">
                             <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
                             <li><a href="#"><i class="lni lni-twitter-original"></i></a></li>
@@ -29,7 +29,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="single_team text-center mt-30 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.5s">
                     <div class="team_image">
-                        <img src="assets/images/team-2.jpg" alt="team">
+                        <img src="{{ asset('assets/images/team-2.jpg') }}" alt="team">
                         <ul class="social">
                             <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
                             <li><a href="#"><i class="lni lni-twitter-original"></i></a></li>
@@ -46,7 +46,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="single_team text-center mt-30 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.8s">
                     <div class="team_image">
-                        <img src="assets/images/team-3.jpg" alt="team">
+                        <img src="{{ asset('assets/images/team-3.jpg') }}" alt="team">
                         <ul class="social">
                             <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
                             <li><a href="#"><i class="lni lni-twitter-original"></i></a></li>
@@ -63,7 +63,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="single_team text-center mt-30 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="1.1s">
                     <div class="team_image">
-                        <img src="assets/images/team-4.jpg" alt="team">
+                        <img src="{{ asset('assets/images/team-4.jpg') }}" alt="team">
                         <ul class="social">
                             <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
                             <li><a href="#"><i class="lni lni-twitter-original"></i></a></li>

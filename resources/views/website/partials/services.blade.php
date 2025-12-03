@@ -15,8 +15,7 @@
                         <i class="lni lni-user"></i>
                     </div>
                     <div class="services_content">
-                        <h4 class="services_title"><a href="#">Business Advising</a></h4>
-                        <p>Lorem ipsum dolor aconsetet dorem ipsum tempor inviduntsadipscing elitr, sed diamn numy eirmod tempor invidunt</p>
+                        <h4 class="services_title"><a href="#">Virtual Assistance</a></h4>
                     </div>
                 </div> <!-- single services -->
             </div> 
@@ -26,41 +25,7 @@
                         <i class="lni lni-write"></i>
                     </div>
                     <div class="services_content">
-                        <h4 class="services_title"><a href="#">Financial Planning</a></h4>
-                        <p>Lorem ipsum dolor aconsetet dorem ipsum tempor inviduntsadipscing elitr, sed diamn numy eirmod tempor invidunt</p>
-                    </div>
-                </div> <!-- single services -->
-            </div> 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_services text-center mt-30 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.8s">
-                    <div class="services_icon">
-                        <i class="lni lni-coin"></i>
-                    </div>
-                    <div class="services_content">
-                        <h4 class="services_title"><a href="#">Savings & Investments</a></h4>
-                        <p>Lorem ipsum dolor aconsetet dorem ipsum tempor inviduntsadipscing elitr, sed diamn numy eirmod tempor invidunt</p>
-                    </div>
-                </div> <!-- single services -->
-            </div> 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_services text-center mt-30 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.2s">
-                    <div class="services_icon">
-                        <i class="lni lni-invest-monitor"></i>
-                    </div>
-                    <div class="services_content">
-                        <h4 class="services_title"><a href="#">TAX Consultancy</a></h4>
-                        <p>Lorem ipsum dolor aconsetet dorem ipsum tempor inviduntsadipscing elitr, sed diamn numy eirmod tempor invidunt</p>
-                    </div>
-                </div> <!-- single services -->
-            </div> 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_services text-center mt-30 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.5s">
-                    <div class="services_icon">
-                        <i class="lni lni-investment"></i>
-                    </div>
-                    <div class="services_content">
-                        <h4 class="services_title"><a href="#">Risk Management</a></h4>
-                        <p>Lorem ipsum dolor aconsetet dorem ipsum tempor inviduntsadipscing elitr, sed diamn numy eirmod tempor invidunt</p>
+                        <h4 class="services_title"><a href="#">Automation & Integrations</a></h4>
                     </div>
                 </div> <!-- single services -->
             </div> 
@@ -70,8 +35,37 @@
                         <i class="lni lni-graph"></i>
                     </div>
                     <div class="services_content">
-                        <h4 class="services_title"><a href="#">Trade & Stock</a></h4>
-                        <p>Lorem ipsum dolor aconsetet dorem ipsum tempor inviduntsadipscing elitr, sed diamn numy eirmod tempor invidunt</p>
+                        <h4 class="services_title"><a href="#">CRM Management</a></h4>
+                    </div>
+                </div> <!-- single services -->
+            </div> 
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_services text-center mt-30 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="services_icon">
+                        <i class="lni lni-mobile"></i>
+                    </div>
+                    <div class="services_content">
+                        <h4 class="services_title"><a href="#">Website / App Support</a></h4>
+                    </div>
+                </div> <!-- single services -->
+            </div> 
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_services text-center mt-30 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.5s">
+                    <div class="services_icon">
+                        <i class="lni lni-investment"></i>
+                    </div>
+                    <div class="services_content">
+                        <h4 class="services_title"><a href="#">Back-Office Handling</a></h4>
+                    </div>
+                </div> <!-- single services -->
+            </div> 
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_services text-center mt-30 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.8s">
+                    <div class="services_icon">
+                        <i class="lni lni-facebook"></i>
+                    </div>
+                    <div class="services_content">
+                        <h4 class="services_title" ><a href="#" style="font-size: 20px;">Digital Operations Management</a></h4>
                     </div>
                 </div> <!-- single services -->
             </div> 

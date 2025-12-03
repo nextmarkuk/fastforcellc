@@ -10,39 +10,6 @@
         </div> <!-- row -->
         <div class="row">
             <div class="col-lg-3 col-sm-6">
-                <div class="single_features text-center mt-25 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.2s">
-                    <div class="features_icon">
-                        <i class="lni lni-certificate"></i>
-                    </div>
-                    <div class="features_content">
-                        <h4 class="features_title"><a href="#">Certified</a></h4>
-                        <p>Lorem ipsum dolor aconsetet dorem ipsum dolor aconsetetur sadipscing  sed diamn numy eirmod </p>
-                    </div>
-                </div> <!-- single features -->
-            </div>
-            <div class="col-lg-3 col-sm-6">
-                <div class="single_features text-center mt-25 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.5s">
-                    <div class="features_icon">
-                        <i class="lni lni-rocket"></i>
-                    </div>
-                    <div class="features_content">
-                        <h4 class="features_title"><a href="#">Fast</a></h4>
-                        <p>Lorem ipsum dolor aconsetet dorem ipsum dolor aconsetetur sadipscing  sed diamn numy eirmod </p>
-                    </div>
-                </div> <!-- single features -->
-            </div>
-            <div class="col-lg-3 col-sm-6">
-                <div class="single_features text-center mt-25 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.8s">
-                    <div class="features_icon">
-                        <i class="lni lni-briefcase"></i>
-                    </div>
-                    <div class="features_content">
-                        <h4 class="features_title"><a href="#">Office Based</a></h4>
-                        <p>Full-time human virtual assistants</p>
-                    </div>
-                </div> <!-- single features -->
-            </div>
-            <div class="col-lg-3 col-sm-6">
                 <div class="single_features text-center mt-25 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="1.1s">
                     <div class="features_icon">
                         <i class="lni lni-headphone-alt"></i>
@@ -53,6 +20,40 @@
                     </div>
                 </div> <!-- single features -->
             </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_features text-center mt-25 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="features_icon">
+                        <i class="lni lni-users"></i>
+                    </div>
+                    <div class="features_content">
+                        <h4 class="features_title"><a href="#">Development Team</a></h4>
+                        <p>Complimentary development team (full-stack, automation, integrations) </p>
+                    </div>
+                </div> <!-- single features -->
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_features text-center mt-25 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.5s">
+                    <div class="features_icon">
+                        <i class="lni lni-rocket"></i>
+                    </div>
+                    <div class="features_content">
+                        <h4 class="features_title"><a href="#">Zero Overhead</a></h4>
+                        <p>No HR, no IT, no physical workspace needed</p>
+                    </div>
+                </div> <!-- single features -->
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_features text-center mt-25 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.8s">
+                    <div class="features_icon">
+                        <i class="lni lni-briefcase"></i>
+                    </div>
+                    <div class="features_content">
+                        <h4 class="features_title"><a href="#">Scalable</a></h4>
+                        <p>Scalable, flexible, and cost-effective</p>
+                    </div>
+                </div>
+            </div>
+            
         </div> <!-- row -->
     </div> <!-- container -->
 </section>

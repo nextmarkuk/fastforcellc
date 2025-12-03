@@ -12,7 +12,7 @@
             <div class="col-lg-6">
                 <div class="single_testimonial">
                     <div class="testimonial_author">
-                        <img src="assets/images/author-1.jpg" alt="author">
+                        <img src="{{ asset('assets/images/author-1.jpg') }}" alt="author">
                     </div>
                     <div class="testimonial_content">
                         <i class="lni lni-quotation"></i>
@@ -27,7 +27,7 @@
             <div class="col-lg-6">
                 <div class="single_testimonial">
                     <div class="testimonial_author">
-                        <img src="assets/images/author-2.jpg" alt="author">
+                        <img src="{{ asset('assets/images/author-2.jpg') }}" alt="author">
                     </div>
                     <div class="testimonial_content">
                         <i class="lni lni-quotation"></i>
@@ -42,7 +42,7 @@
             <div class="col-lg-6">
                 <div class="single_testimonial">
                     <div class="testimonial_author">
-                        <img src="assets/images/author-1.jpg" alt="author">
+                        <img src="{{ asset('assets/images/author-1.jpg') }}" alt="author">
                     </div>
                     <div class="testimonial_content">
                         <i class="lni lni-quotation"></i>

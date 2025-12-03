@@ -3,7 +3,7 @@
         <div class="row align-items-center">
             <div class="col-lg-7">
                 <div class="about_image mt-50">
-                    <img src="assets/images/about.jpg" alt="about image">
+                    <img src="{{ asset('assets/images/about.jpg') }}" alt="about image">
                     <div class="experiance d-flex justify-content-center align-items-center text-center wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.2s">
                         <div class="experiance_wrapper text-center">
                             <span>25</span>
@@ -11,7 +11,7 @@
                         </div>
                     </div>
                     <div class="about_shape">
-                        <img src="assets/images/shape-1.svg" alt="shape">
+                        <img src="{{ asset('assets/images/shape-1.svg') }}" alt="shape">
                     </div> <!-- about shape -->
                 </div> <!-- about image -->
             </div>
