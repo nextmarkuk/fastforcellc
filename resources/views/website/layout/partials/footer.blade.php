@@ -8,10 +8,10 @@
                             <img class="footer-logo" src="{{ asset('assets/images/logo.png') }}" alt="Fast Force">
                         </a>
                         <ul class="social">
-                            <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
-                            <li><a href="#"><i class="lni lni-twitter-original"></i></a></li>
-                            <li><a href="#"><i class="lni lni-instagram-original"></i></a></li>
-                            <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                            <li><a href="{{ config('website.social.facebook') }}"><i class="lni lni-facebook-filled"></i></a></li>
+                            <li><a href="{{ config('website.social.twitter') }}"><i class="lni lni-twitter-original"></i></a></li>
+                            <li><a href="{{ config('website.social.instagram') }}"><i class="lni lni-instagram-original"></i></a></li>
+                            <li><a href="{{ config('website.social.linkedin') }}"><i class="lni lni-linkedin-original"></i></a></li>
                         </ul>
                     </div> <!-- footer about -->
                 </div>

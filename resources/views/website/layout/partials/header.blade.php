@@ -56,7 +56,7 @@
                             <div class="col-lg-7">
                                 <div class="slider_content">
                                     <h1 class="slider_title" data-animation="fadeInUp" data-delay="0.2s">FastForce</h1>
-                                    <h2 class="color-white" data-animation="fadeInUp" data-delay="0.4s">Your One-Window Virtual Assistant & Full-Stack Support Platform.</h2>
+                                    <h2 class="color-white slider-h2" data-animation="fadeInUp" data-delay="0.4s">Your One-Window Virtual Assistant & Full-Stack Support Platform.</h2>
                                     <p data-animation="fadeInUp" data-delay="0.6s">Hire one virtual assistant. Get a complete development and operations team — without adding any in-house staff.</p>
                                     <a class="main-btn" href="#services" data-animation="fadeInUp" data-delay="1s">Explore Services</a>
                                 </div> 
@@ -71,7 +71,7 @@
                             <div class="col-lg-6">
                                 <div class="slider_content">
                                     <h1 class="slider_title" data-animation="fadeInUp" data-delay="0.2s">FastForce</h1>
-                                    <h2 class="color-white" data-animation="fadeInUp" data-delay="0.4s">Boost Your Business Productivity Instantly.</h2>
+                                    <h2 class="color-white slider-h2" data-animation="fadeInUp" data-delay="0.4s">Boost Your Business Productivity Instantly.</h2>
                                     <p data-animation="fadeInUp" data-delay="0.6s">Scale operations with dedicated, office-based virtual assistants supported by a full-stack team.</p>
                                     <a class="main-btn" href="#" data-animation="fadeInUp" data-delay="1s">Learn More</a>
                                 </div>
@@ -85,7 +85,7 @@
                             <div class="col-lg-7">
                                 <div class="slider_content">
                                     <h1 class="slider_title" data-animation="fadeInUp" data-delay="0.2s">FastForce</h1>
-                                    <h2 class="color-white" data-animation="fadeInUp" data-delay="0.4s">One Virtual Assistant. Unlimited Backend Support.</h2>
+                                    <h2 class="color-white slider-h2" data-animation="fadeInUp" data-delay="0.4s">One Virtual Assistant. Unlimited Backend Support.</h2>
                                     <p data-animation="fadeInUp" data-delay="0.6s">Every hire includes complimentary development, automation, and administrative support — at no extra cost.</p>
                                     <a class="main-btn" href="#" data-animation="fadeInUp" data-delay="1s">Learn More</a>
                                 </div>
@@ -99,7 +99,7 @@
                             <div class="col-lg-7">
                                 <div class="slider_content">
                                     <h1 class="slider_title" data-animation="fadeInUp" data-delay="0.2s">FastForce</h1>
-                                    <h2 class="color-white" data-animation="fadeInUp" data-delay="0.4s">Your Remote Workforce, Managed from Our Fully-Functional Offices.</h2>
+                                    <h2 class="color-white slider-h2" data-animation="fadeInUp" data-delay="0.4s">Your Remote Workforce, Managed from Our Fully-Functional Offices.</h2>
                                     <p data-animation="fadeInUp" data-delay="0.6s">Our VAs work 8 hours a day on secure systems — not from home, not freelancers, but trained professionals.</p>
                                     <a class="main-btn" href="#" data-animation="fadeInUp" data-delay="1s">Learn More</a>
                                 </div>
