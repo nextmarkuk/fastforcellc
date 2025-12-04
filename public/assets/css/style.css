@@ -470,6 +470,7 @@ p {
         padding: 15px 0; } }
     @media (max-width: 767px) {
       .sticky .navbar {
+        position: absolute;
         padding: 15px; } }
 
 .navbar {
