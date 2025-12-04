@@ -1,13 +1,12 @@
-<footer id="footer" class="footer_area">
+<footer id="footer" class="footer_area mt-50 pb-50">
     <div class="container">
-        <div class="footer_wrapper pt-50 pb-100">
+        <div class="footer_wrapper">
             <div class="row">
                 <div class="col-lg-3 col-md-6 order-md-1 order-lg-1">
                     <div class="footer_about mt-50">
-                        <a href="#">
-                            <img src="assets/images/logo.png" alt="">
+                        <a href="#" class="text-center">
+                            <img class="footer-logo" src="{{ asset('assets/images/logo.png') }}" alt="Fast Force">
                         </a>
-                        <p>Lorem ipsum dolor sitco nsetetu nonumy eirmod tempor invidunt ut labore etert dolore magna uyam Lorem ipsum dolor sitco nsetetu.</p>
                         <ul class="social">
                             <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
                             <li><a href="#"><i class="lni lni-twitter-original"></i></a></li>
@@ -61,7 +60,6 @@
                     </div> <!-- footer form -->
                 </div>
             </div> <!-- row -->
-        </div> <!-- footer wrapper -->
-                <p class="text-center pb-30">Designed and Developed by <a href="https://uideck.com/" rel="nofollow">UIdeck</a> </p>
+        </div> 
     </div> <!-- container -->
 </footer>
