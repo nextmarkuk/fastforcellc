@@ -758,6 +758,7 @@ p {
       font-size: 55px; } }
   @media (max-width: 767px) {
     .slider_content .slider_title {
+      margin-top: 20px;
       font-size: 20px; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
     .slider_content .slider_title {
@@ -1451,7 +1452,19 @@ p {
     {
       text-align: center;
     }
+    .single_slider {
+      height: 260px;
+    }
+    .slider-active .slick-dots
+    {
+      bottom: 15px;
+      left: 100px;
+    }
+    .slider_content .main-btn {
+      margin-top: 10px;
+    }
   }
+  
   .single_slider::after{
     content: "";
     position: absolute;
