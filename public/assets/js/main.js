@@ -52,8 +52,8 @@ $(function() {
             doAnimations($animatingElements);
         });
         BasicSlider.slick({
-            autoplay: false,
-            autoplaySpeed: 3000,
+            autoplay: true,
+            autoplaySpeed: 4000,
             dots: true,
             fade: true,
             arrows: false,
