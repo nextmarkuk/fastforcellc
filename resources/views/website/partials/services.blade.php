@@ -1,4 +1,4 @@
-<section id="services" class="services_area pb-50  pt-50">
+<section id="services" class="services_area pb-50 pt-50">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">

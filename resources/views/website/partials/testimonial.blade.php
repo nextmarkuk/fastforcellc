@@ -1,4 +1,4 @@
-<section id="testimonial" class="testimonial_area pt-95 pb-100">
+<section id="testimonial" class="testimonial_area pt-30 pb-30">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">

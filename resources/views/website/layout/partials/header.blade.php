@@ -40,7 +40,7 @@
                         </div> <!-- navbar collapse -->
                         
                         <div class="navbar-btn d-none d-sm-inline-block">
-                            <a class="main-btn" data-scroll-nav="0" href="#services">Schedule a Meeting</a>
+                            <a class="main-btn" data-toggle="modal" data-target="#ScheduleMeeting">Schedule a Meeting</a>
                         </div>
                     </nav> <!-- navbar -->
                 </div>
