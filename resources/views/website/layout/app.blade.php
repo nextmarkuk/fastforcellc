@@ -7,7 +7,7 @@
         @yield('description')
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noindex, nofollow">
-        <link rel="shortcut icon" href="{!! asset('assets/images/favicon.png') !!}" type="image/png">
+        <link rel="shortcut icon" href="{{ asset('assets/images/logo.png') }}" type="image/png">
         <link rel="stylesheet" href="{!! asset('assets/css/slick.css') !!}">
         <link rel="stylesheet" href="{!! asset('assets/css/lineicons.css') !!}">
         <link rel="stylesheet" href="{!! asset('assets/css/font-awesome.min.css') !!}">
@@ -16,6 +16,76 @@
         <link rel="stylesheet" href="{!! asset('assets/css/default.css') !!}">
         <link rel="stylesheet" href="{!! asset('assets/css/style.css') !!}">
         @yield('css')
+        <style>
+          .custom-navbar {
+              background-image: url('{{ asset("assets/images/navbar-bg.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .custom-navbar::before {
+              content: "";
+              position: absolute;
+              top: 0; left: 0;
+              width: 100%; height: 100%;
+              z-index: 1;
+          }
+          .why-bg {
+              background-image: url('{{ asset("assets/images/why.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .services-bg {
+              background-image: url('{{ asset("assets/images/services.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .virtual-bg {
+              background-image: url('{{ asset("assets/images/virtual-assistant.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          
+          .automation-bg {
+              background-image: url('{{ asset("assets/images/automation.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .crm-bg {
+              background-image: url('{{ asset("assets/images/crm.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .website-bg {
+              background-image: url('{{ asset("assets/images/website.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .office-bg {
+              background-image: url('{{ asset("assets/images/office.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .digital-bg {
+              background-image: url('{{ asset("assets/images/digital.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .footer-bg {
+              background-image: url('{{ asset("assets/images/footer.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+        </style>
     </head>
     <body>
         <div class="preloader">

@@ -11,9 +11,5 @@
     <!--====== SERVICES PART START ======-->
     @include('website.partials.services')
     <!--====== SERVICES PART ENDS ======-->
-
-    <!--====== TESTIMONIAL PART START ======-->
-    @include('website.partials.testimonial')
-    <!--====== TESTIMONIAL PART ENDS ======-->
     
 @endsection

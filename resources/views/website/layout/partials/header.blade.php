@@ -1,9 +1,9 @@
 <header class="header_area">        
-    <div class="header_navbar">
+    <div class="header_navbar custom-navbar">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
-                    <nav class="navbar navbar-expand-lg">
+                    <nav class="navbar navbar-expand-lg ">
                         <a class="navbar-brand" href="{{ url('/') }}">
                             <img class="logo" src="{{ asset('assets/images/logo.png') }}" alt="Logo">
                         </a>
@@ -48,9 +48,9 @@
         </div>
     </div> 
     <div id="home" class="header_slider">
-        <div class="container-fluid">
+        <div class="">
             <div class="slider-active">
-                <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url({{ asset('assets/images/slider-1.webp') }})">
+                <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url({{ asset('assets/images/slider-1.jpg') }})">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-7">
@@ -64,7 +64,7 @@
                         </div> 
                     </div> 
                 </div>
-                <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url({{ asset('assets/images/slider-2.webp') }})">
+                <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url({{ asset('assets/images/slider-2.jpg') }})">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6"></div>
