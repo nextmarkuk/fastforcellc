@@ -10,7 +10,7 @@
         </div> <!-- row -->
         <div class="row">
             <div class="col-lg-3 col-sm-6">
-                <div class="single_features text-center mt-25 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="1.1s">
+                <div class="single_features text-center mt-25 wow fadeInUpBig" data-wow-duration="2s" data-wow-delay="0.1s">
                     <div class="features_icon">
                         <i class="lni lni-headphone-alt"></i>
                     </div>
