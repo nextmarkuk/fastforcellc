@@ -85,6 +85,44 @@
               background-position: center;     
               background-repeat: no-repeat;
           }
+          .video-section {
+              position: relative;
+              height: 90vh;
+              width: 100%;
+              overflow: hidden;
+          }
+
+          .video-bg {
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              min-width: 100%;
+              min-height: 100%;
+              width: auto;
+              height: auto;
+              transform: translate(-50%, -50%);
+              object-fit: cover;
+              z-index: 0;
+          }
+
+          .video-overlay {
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              background: rgba(0, 0, 0, 0.4); /* black overlay */
+              z-index: 1;
+          }
+
+          .video-content {
+              position: relative;
+              z-index: 2;
+              text-align: center;
+              color: #fff;
+              top: 50%;
+              transform: translateY(-50%);
+          }
         </style>
     </head>
     <body>

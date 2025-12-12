@@ -50,7 +50,11 @@
     <div id="home" class="header_slider">
         <div class="">
             <div class="slider-active">
-                <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url({{ asset('assets/images/slider-1.jpg') }})">
+                <div class="single_slider bg_cover d-flex align-items-center video-section">
+                    <div class="video-overlay"></div>
+                    <video autoplay muted loop playsinline class="video-bg">
+                        <source src="{{ asset('assets/video/slider-2.mp4') }}" type="video/mp4">
+                    </video>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-7">
