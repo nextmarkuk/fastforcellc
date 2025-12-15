@@ -111,14 +111,13 @@
               left: 0;
               width: 100%;
               height: 100%;
-              background: rgba(0, 0, 0, 0.4); /* black overlay */
+              background: rgba(0, 0, 0, 55%); /* black overlay */
               z-index: 1;
           }
 
           .video-content {
               position: relative;
               z-index: 2;
-              text-align: center;
               color: #fff;
               top: 50%;
               transform: translateY(-50%);

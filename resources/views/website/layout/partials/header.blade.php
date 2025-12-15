@@ -53,7 +53,7 @@
             <video autoplay muted loop playsinline class="video-bg">
                 <source src="{{ asset('assets/video/slider-2.mp4') }}" type="video/mp4">
             </video>
-            <div class="slider-active">
+            <div class="slider-active video-content">
                 <div class="single_slider bg_cover d-flex align-items-center ">
                     <div class="container">
                         <div class="row">
