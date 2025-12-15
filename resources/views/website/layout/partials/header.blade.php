@@ -48,13 +48,13 @@
         </div>
     </div> 
     <div id="home" class="header_slider">
-        <div class="">
+        <div class="video-section">
+            <div class="video-overlay"></div>
+            <video autoplay muted loop playsinline class="video-bg">
+                <source src="{{ asset('assets/video/slider-2.mp4') }}" type="video/mp4">
+            </video>
             <div class="slider-active">
-                <div class="single_slider bg_cover d-flex align-items-center video-section">
-                    <div class="video-overlay"></div>
-                    <video autoplay muted loop playsinline class="video-bg">
-                        <source src="{{ asset('assets/video/slider-2.mp4') }}" type="video/mp4">
-                    </video>
+                <div class="single_slider bg_cover d-flex align-items-center ">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-7">
@@ -68,11 +68,10 @@
                         </div> 
                     </div> 
                 </div>
-                <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url({{ asset('assets/images/slider-2.jpg') }})">
+                <div class="single_slider bg_cover d-flex align-items-center">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-6"></div>
-                            <div class="col-lg-6">
+                            <div class="col-lg-7">
                                 <div class="slider_content">
                                     <h1 class="slider_title" data-animation="fadeInUp" data-delay="0.2s">FastForce</h1>
                                     <h2 class="color-white slider-h2" data-animation="fadeInUp" data-delay="0.4s">Boost Your Business Productivity Instantly.</h2>
@@ -83,7 +82,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url({{ asset('assets/images/slider-3.jpg') }})">
+                <div class="single_slider bg_cover d-flex align-items-center">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-7">
@@ -97,7 +96,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url({{ asset('assets/images/slider-4.jpg') }})">
+                <div class="single_slider bg_cover d-flex align-items-center" >
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-7">
