@@ -43,14 +43,14 @@
               background-repeat: no-repeat;
           }
           .virtual-bg {
-              background-image: url('{{ asset("assets/images/virtual-assistant.jpg") }}');
+              background-image: url('{{ asset("assets/images/va.jpg") }}');
               background-size: cover;          
               background-position: center;     
               background-repeat: no-repeat;
           }
           
           .automation-bg {
-              background-image: url('{{ asset("assets/images/automation.jpg") }}');
+              background-image: url('{{ asset("assets/images/at.jpg") }}');
               background-size: cover;          
               background-position: center;     
               background-repeat: no-repeat;
