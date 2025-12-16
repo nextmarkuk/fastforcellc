@@ -24,3 +24,6 @@ Homestead.yaml
 Thumbs.db
 /public/videos/assets/video
 /public/videos/assets/video/*
+public/assets/video/
+*.mov
+*.mp4
