@@ -18,10 +18,7 @@
         @yield('css')
         <style>
           .custom-navbar {
-              background-image: url('{{ asset("assets/images/navbar-bg.jpg") }}');
-              background-size: cover;          
-              background-position: center;     
-              background-repeat: no-repeat;
+            background-color: #080216;
           }
           .custom-navbar::before {
               content: "";
@@ -36,49 +33,7 @@
               background-position: center;     
               background-repeat: no-repeat;
           }
-          .services-bg {
-              background-image: url('{{ asset("assets/images/services.jpg") }}');
-              background-size: cover;          
-              background-position: center;     
-              background-repeat: no-repeat;
-          }
-          .virtual-bg {
-              background-image: url('{{ asset("assets/images/va.jpg") }}');
-              background-size: cover;          
-              background-position: center;     
-              background-repeat: no-repeat;
-          }
           
-          .automation-bg {
-              background-image: url('{{ asset("assets/images/at.jpg") }}');
-              background-size: cover;          
-              background-position: center;     
-              background-repeat: no-repeat;
-          }
-          .crm-bg {
-              background-image: url('{{ asset("assets/images/crm.jpg") }}');
-              background-size: cover;          
-              background-position: center;     
-              background-repeat: no-repeat;
-          }
-          .website-bg {
-              background-image: url('{{ asset("assets/images/website.jpg") }}');
-              background-size: cover;          
-              background-position: center;     
-              background-repeat: no-repeat;
-          }
-          .office-bg {
-              background-image: url('{{ asset("assets/images/office.jpg") }}');
-              background-size: cover;          
-              background-position: center;     
-              background-repeat: no-repeat;
-          }
-          .digital-bg {
-              background-image: url('{{ asset("assets/images/digital.jpg") }}');
-              background-size: cover;          
-              background-position: center;     
-              background-repeat: no-repeat;
-          }
           .footer-bg {
               background-image: url('{{ asset("assets/images/footer.jpg") }}');
               background-size: cover;          

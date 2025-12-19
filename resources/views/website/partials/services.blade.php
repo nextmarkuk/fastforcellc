@@ -1,57 +1,11 @@
-<section id="services" class="services_area pb-50 pt-50 services-bg">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <div class="section_title text-center pb-15">
-                    <h4 class="sub_title">Services</h4>
-                    <h3 class="title">We Offer Best Financial Consultancy Services in Affordable Cost</h3>
-                </div>
-            </div>
+<section id="services" class="">
+    <div class="reveal-container" id="revealBox">
+        <div class="content">
+            <h1>Your Content Here</h1>
+            <p>This is the hidden content that gets revealed when you scroll. The cover slides up smoothly to show this beautiful content underneath. Add your text, images, or any content here.</p>
         </div>
-        <div class="row">
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_services text-center mt-30 wow fadeInUpBig virtual-bg" data-wow-duration="2s" data-wow-delay="0.2s">
-                    <div class="services_content">
-                        <h4 class="services_title"><a href="#">Virtual <br> Assistance</a></h4>
-                    </div>
-                </div> <!-- single services -->
-            </div> 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_services text-center mt-30 wow fadeInUpBig automation-bg" data-wow-duration="2s" data-wow-delay="0.5s">
-                    <div class="services_content">
-                        <h4 class="services_title"><a href="#">Automation & Integrations</a></h4>
-                    </div>
-                </div> <!-- single services -->
-            </div> 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_services text-center mt-30 wow fadeInUpBig crm-bg" data-wow-duration="2s" data-wow-delay="0.8s">
-                    
-                    <div class="services_content">
-                        <h4 class="services_title"><a href="#">CRM <br> Management</a></h4>
-                    </div>
-                </div> <!-- single services -->
-            </div> 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_services text-center mt-30 wow fadeInUpBig website-bg" data-wow-duration="2s" data-wow-delay="0.2s">
-                    <div class="services_content">
-                        <h4 class="services_title"><a href="#">Website <br> App Support</a></h4>
-                    </div>
-                </div> <!-- single services -->
-            </div> 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_services text-center mt-30 wow fadeInUpBig office-bg" data-wow-duration="2s" data-wow-delay="0.5s">
-                    <div class="services_content">
-                        <h4 class="services_title"><a href="#">Back-Office <br> Handling</a></h4>
-                    </div>
-                </div> <!-- single services -->
-            </div> 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_services text-center mt-30 wow fadeInUpBig digital-bg" data-wow-duration="2s" data-wow-delay="0.8s">
-                    <div class="services_content">
-                        <h4 class="services_title" ><a href="#" style="font-size: 30px;">Digital <br> Operations Management</a></h4>
-                    </div>
-                </div> <!-- single services -->
-            </div> 
-        </div> <!-- row -->
-    </div> <!-- container -->
+        <div class="cover">
+            <img src="{{ asset('assets/images/services-overlay.png') }}" alt="">
+        </div>
+    </div>
 </section>

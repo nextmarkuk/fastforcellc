@@ -838,7 +838,8 @@ p {
       line-height: 90px;
       font-size: 48px; } }
 .single_features .features_content {
-  margin-top: 25px; }
+  margin-top: 25px;
+padding: 0px 10px; }
   .single_features .features_content .features_title a {
     font-size: 25px;
     font-weight: 600;
@@ -1317,7 +1318,6 @@ p {
     top: 0;
     width: 100%;
     height: 100%;
-    background-image: url(../images/dots.png);
     background-position: center center;
     background-size: cover; }
 
@@ -1476,6 +1476,9 @@ p {
     .video-section {
       height: 50vh !important;
     }
+    .w-43 {
+      width: 30% !important;
+    }
   }
   
   .single_slider::after{
@@ -1537,4 +1540,108 @@ p {
     width: 100%;
     padding-bottom: 5px; 
     font-weight: bold;
+}
+.single_features {
+    min-height: 300px;
+    background-color: #00000094;
+    border-radius: 12px;
+    border: 1px solid #a272c4;
+    padding: 20px 5px;
+}
+.w-43 {
+  width: 43% !important;
+}
+
+ .reveal-container {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 600px;
+    overflow: hidden;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+    background: #080216;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.content h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    line-height: 1.6;
+}
+
+.cover {
+    position: absolute;
+    top: -21px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.5s ease;
+    z-index: 2;
+}
+
+.cover-text {
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+}
+
+.reveal-container.active .cover {
+    transform: translateY(-100%);
+}
+
+@media (max-width: 768px) {
+    .reveal-container {
+        height: 500px;
+    }
+    
+    .content h1 {
+        font-size: 2rem;
+    }
+    
+    .content p {
+        font-size: 1rem;
+    }
+    
+    .cover-text {
+        font-size: 1.8rem;
+    }
+    
+    .content {
+        padding: 40px 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .reveal-container {
+        height: 400px;
+    }
+    
+    .content h1 {
+        font-size: 1.5rem;
+    }
+    
+    .cover-text {
+        font-size: 1.5rem;
+    }
+    
+    .content {
+        padding: 30px 20px;
+    }
 }
