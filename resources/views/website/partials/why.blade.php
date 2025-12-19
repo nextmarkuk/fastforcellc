@@ -3,7 +3,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-9">
                 <div class="section_title text-center pb-10">
-                    <h1 class="slider_title color-white wow fadeInUpBig"  data-wow-duration="1s" data-wow-delay="0.1s">Why FastForce?</h1>
+                    <h1 class="slider_title purple-color wow fadeInUpBig"  data-wow-duration="1s" data-wow-delay="0.1s">Why FastForce?</h1>
                     <h3 class="color-white slider-h2  wow fadeInUpBig" data-wow-duration="1s" data-wow-delay="0.2s">Live Monitoring System for Virtual Assistants with Real-Time Activity Tracking</h3>
                 </div> <!-- section title -->
             </div>

@@ -1543,15 +1543,17 @@ padding: 0px 10px; }
 }
 .single_features {
     min-height: 300px;
-    background-color: #00000094;
+    /* background-color: #00000094; */
     border-radius: 12px;
-    border: 1px solid #a272c4;
+    /* border: 1px solid #a272c4; */
     padding: 20px 5px;
 }
 .w-43 {
   width: 43% !important;
 }
-
+.purple-color {
+  color: #a272c4 !important;
+}
  .reveal-container {
     position: relative;
     max-width: 100%;
@@ -1645,13 +1647,24 @@ padding: 0px 10px; }
     flex: 1 1;
     gap: 15px;
     height: 55px;
-    padding-left: 25px;
+    padding-left: 15px;
     position: relative;
+    color: #f1f5f9;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: justify;
 }
 .w-20 {
   width: 20% !important;
 }
+.w-25 {
+  width: 25% !important;
+}
 .m-25 
 {
   margin-top: 25px;
+}
+.m-50 
+{
+  margin-top: 50px !important;
 }
