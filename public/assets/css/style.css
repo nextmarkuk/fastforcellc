@@ -1556,7 +1556,6 @@ padding: 0px 10px; }
     position: relative;
     max-width: 100%;
     margin: 0 auto;
-    height: 600px;
     overflow: hidden;
 }
 
@@ -1564,23 +1563,13 @@ padding: 0px 10px; }
     width: 100%;
     height: 100%;
     background: #080216;
-    color: white;
-    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
-
-.content h1 {
-    font-size: 3rem;
-    margin-bottom: 20px;
-}
-
-.content p {
-    font-size: 1.2rem;
-    max-width: 600px;
-    line-height: 1.6;
+.services {
+  background: #080216;
 }
 
 .cover {
@@ -1644,4 +1633,25 @@ padding: 0px 10px; }
     .content {
         padding: 30px 20px;
     }
+}
+
+.item-bubble {
+    align-items: center;
+    background: hsla(0, 0%, 100%, .05);
+    border: 1px solid #a574c7;
+    border-radius: 58px;
+    box-sizing: border-box;
+    display: flex;
+    flex: 1 1;
+    gap: 15px;
+    height: 55px;
+    padding-left: 25px;
+    position: relative;
+}
+.w-20 {
+  width: 20% !important;
+}
+.m-25 
+{
+  margin-top: 25px;
 }

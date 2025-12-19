@@ -25,9 +25,9 @@
             
             // Check if div is in viewport
             if (boxRect.top < windowHeight && boxRect.bottom > 0) {
-                const scrolled = windowHeight / 4 - boxRect.top;
+                const scrolled = windowHeight / 2 - boxRect.top;
                 const scrollRange = boxHeight;
-                let progress = (scrolled / scrollRange) * 100;
+                let progress = (scrolled / scrollRange) * 150;
                 progress = Math.max(0, Math.min(100, progress));
                 
                 cover.style.transform = `translateY(-${progress}%)`;
