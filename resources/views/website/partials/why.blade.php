@@ -1,4 +1,4 @@
-<section id="why" class="features_area pt-70 pb-70 blue-bg why-bg">
+<section id="why" class="features_area pt-70 pb-10 blue-bg why-bg">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-9">
