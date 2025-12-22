@@ -20,10 +20,9 @@
                         <div class="footer_link mt-45">
                             <h4 class="footer_title theme-white">Quick Link</h4>
                             <ul class="link">
-                                <li><a href="#" class="theme-white">Home</a></li>
-                                <li><a href="#" class="theme-white">About</a></li>
-                                <li><a href="#" class="theme-white">Service</a></li>
-                                <li><a href="#" class="theme-white">Case Study</a></li>
+                                <li><a href="{{ route('website.home') }}" class="theme-white">Home</a></li>
+                                <li><a href="{{ route('website.services') }}" class="theme-white">Service</a></li>
+                                <li><a href="#" class="theme-white">Team</a></li>
                                 <li><a href="#" class="theme-white">Blog</a></li>
                             </ul>
                         </div> <!-- footer link -->

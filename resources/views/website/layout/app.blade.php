@@ -17,16 +17,6 @@
         <link rel="stylesheet" href="{!! asset('assets/css/style.css') !!}">
         @yield('css')
         <style>
-          .custom-navbar {
-            background-color: #080216;
-          }
-          .custom-navbar::before {
-              content: "";
-              position: absolute;
-              top: 0; left: 0;
-              width: 100%; height: 100%;
-              z-index: 1;
-          }
           .why-bg {
               background-image: url('{{ asset("assets/images/why.jpg") }}');
               background-size: cover;          
@@ -40,42 +30,11 @@
               background-position: center;     
               background-repeat: no-repeat;
           }
-          .video-section {
-              position: relative;
-              height: 90vh;
-              width: 100%;
-              overflow: hidden;
-          }
-
-          .video-bg {
-              position: absolute;
-              top: 50%;
-              left: 50%;
-              min-width: 100%;
-              min-height: 100%;
-              width: auto;
-              height: auto;
-              transform: translate(-50%, -50%);
-              object-fit: cover;
-              z-index: 0;
-          }
-
-          .video-overlay {
-              position: absolute;
-              top: 0;
-              left: 0;
-              width: 100%;
-              height: 100%;
-              background: rgba(0, 0, 0, 55%); /* black overlay */
-              z-index: 1;
-          }
-
-          .video-content {
-              position: relative;
-              z-index: 2;
-              color: #fff;
-              top: 50%;
-              transform: translateY(-50%);
+          .single_testimonial {
+              background-image: url('{{ asset("assets/images/va-gb.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
           }
         </style>
     </head>
