@@ -16,7 +16,7 @@
             </div>
             <div class="row testimonial_active ">
                 <div class="col-lg-6">
-                    <div class="single_testimonial">
+                    <div class="single_testimonial gvs-bg">
                         <span class="sub_title">FastForce</span>
                         <div class="testimonial_content">
                             <div class="testimonial_name">
@@ -28,55 +28,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="single_testimonial">
-                        <span class="sub_title">FastForce</span>
-                        <div class="testimonial_content">
-                            <div class="testimonial_name">
-                                <h5 class="name mt-3 color-white">Global VA Services</h5>
-                            </div>
-                            <p class="color-white">Efficient virtual assistant services that help businesses around the world manage tasks and boost productivity.</p>
-                        </div>
-                        <a class="see-more" href="">See More</a>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="single_testimonial">
-                        <span class="sub_title">FastForce</span>
-                        <div class="testimonial_content">
-                            <div class="testimonial_name">
-                                <h5 class="name mt-3 color-white">Calendar Management</h5>
-                            </div>
-                            <p class="color-white">Hassle-free scheduling that keeps your meetings organized and your time maximized</p>
-                        </div>
-                        <a class="see-more" href="">See More</a>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="single_testimonial">
-                        <span class="sub_title">FastForce</span>
-                        <div class="testimonial_content">
-                            <div class="testimonial_name">
-                                <h5 class="name mt-3 color-white">Social Media Management</h5>
-                            </div>
-                            <p class="color-white">Expert social media handling that increases brand visibility, engages followers, and grows your online presence</p>
-                        </div>
-                        <a class="see-more" href="" >See More</a>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="single_testimonial">
-                        <span class="sub_title">FastForce</span>
-                        <div class="testimonial_content">
-                            <div class="testimonial_name">
-                                <h5 class="name mt-3 color-white">Lead Generation</h5>
-                            </div>
-                            <p class="color-white">Targeted lead generation strategies that help you find and connect with potential customers.</p>
-                        </div>
-                        <a class="see-more" href="">See More</a>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="single_testimonial va-bg">
+                    <div class="single_testimonial cs-bg">
                         <span class="sub_title">FastForce</span>
                         <div class="testimonial_content">
                             <div class="testimonial_name">
@@ -88,31 +40,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="single_testimonial va-bg">
-                        <span class="sub_title">FastForce</span>
-                        <div class="testimonial_content">
-                            <div class="testimonial_name">
-                                <h5 class="name mt-3 color-white">Technical Support</h5>
-                            </div>
-                            <p class="color-white">Fast and reliable tech support that keeps your systems running smoothly and resolves technical issues quickly.</p>
-                        </div>
-                        <a class="see-more" href="">See More</a>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="single_testimonial va-bg">
-                        <span class="sub_title">FastForce</span>
-                        <div class="testimonial_content">
-                            <div class="testimonial_name">
-                                <h5 class="name mt-3 color-white">Email Management</h5>
-                            </div>
-                            <p class="color-white">Efficient email management to sort, prioritize, and respond to your emails, saving you time.</p>
-                        </div>
-                        <a class="see-more" href="">See More</a>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="single_testimonial va-bg">
+                    <div class="single_testimonial dm-bg">
                         <span class="sub_title">FastForce</span>
                         <div class="testimonial_content">
                             <div class="testimonial_name">
@@ -124,7 +52,67 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="single_testimonial va-bg">
+                    <div class="single_testimonial ts-bg">
+                        <span class="sub_title">FastForce</span>
+                        <div class="testimonial_content">
+                            <div class="testimonial_name">
+                                <h5 class="name mt-3 color-white">Technical Support</h5>
+                            </div>
+                            <p class="color-white">Fast and reliable tech support that keeps your systems running smoothly and resolves technical issues quickly.</p>
+                        </div>
+                        <a class="see-more" href="">See More</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="single_testimonial cm-bg">
+                        <span class="sub_title">FastForce</span>
+                        <div class="testimonial_content">
+                            <div class="testimonial_name">
+                                <h5 class="name mt-3 color-white">Calendar Management</h5>
+                            </div>
+                            <p class="color-white">Hassle-free scheduling that keeps your meetings organized and your time maximized</p>
+                        </div>
+                        <a class="see-more" href="">See More</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="single_testimonial sdm-bg">
+                        <span class="sub_title">FastForce</span>
+                        <div class="testimonial_content">
+                            <div class="testimonial_name">
+                                <h5 class="name mt-3 color-white">Social Media Management</h5>
+                            </div>
+                            <p class="color-white">Expert social media handling that increases brand visibility, engages followers, and grows your online presence</p>
+                        </div>
+                        <a class="see-more" href="" >See More</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="single_testimonial lg-bg">
+                        <span class="sub_title">FastForce</span>
+                        <div class="testimonial_content">
+                            <div class="testimonial_name">
+                                <h5 class="name mt-3 color-white">Lead Generation</h5>
+                            </div>
+                            <p class="color-white">Targeted lead generation strategies that help you find and connect with potential customers.</p>
+                        </div>
+                        <a class="see-more" href="">See More</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="single_testimonial em-bg">
+                        <span class="sub_title">FastForce</span>
+                        <div class="testimonial_content">
+                            <div class="testimonial_name">
+                                <h5 class="name mt-3 color-white">Email Management</h5>
+                            </div>
+                            <p class="color-white">Efficient email management to sort, prioritize, and respond to your emails, saving you time.</p>
+                        </div>
+                        <a class="see-more" href="">See More</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="single_testimonial ctm-bg">
                         <span class="sub_title">FastForce</span>
                         <div class="testimonial_content">
                             <div class="testimonial_name">
@@ -136,7 +124,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="single_testimonial va-bg">
+                    <div class="single_testimonial mr-bg">
                         <span class="sub_title">FastForce</span>
                         <div class="testimonial_content">
                             <div class="testimonial_name">
@@ -148,7 +136,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="single_testimonial va-bg">
+                    <div class="single_testimonial es-bg">
                         <span class="sub_title">FastForce</span>
                         <div class="testimonial_content">
                             <div class="testimonial_name">
@@ -160,7 +148,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="single_testimonial va-bg">
+                    <div class="single_testimonial b2b-bg">
                         <span class="sub_title">FastForce</span>
                         <div class="testimonial_content">
                             <div class="testimonial_name">

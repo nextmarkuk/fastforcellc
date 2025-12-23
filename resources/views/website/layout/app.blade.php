@@ -30,8 +30,74 @@
               background-position: center;     
               background-repeat: no-repeat;
           }
-          .single_testimonial {
+          .gvs-bg {
               background-image: url('{{ asset("assets/images/va-gb.jpg") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .cm-bg {
+              background-image: url('{{ asset("assets/images/cm.png") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .lg-bg {
+              background-image: url('{{ asset("assets/images/lg.png") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .sdm-bg {
+              background-image: url('{{ asset("assets/images/sdm.png") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .cs-bg {
+              background-image: url('{{ asset("assets/images/cs.png") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+           .ts-bg {
+              background-image: url('{{ asset("assets/images/ts.png") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .em-bg {
+              background-image: url('{{ asset("assets/images/em.png") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .dm-bg {
+              background-image: url('{{ asset("assets/images/dm.png") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .ctm-bg {
+              background-image: url('{{ asset("assets/images/ctm.png") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .mr-bg {
+              background-image: url('{{ asset("assets/images/mr.png") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .es-bg {
+              background-image: url('{{ asset("assets/images/es.png") }}');
+              background-size: cover;          
+              background-position: center;     
+              background-repeat: no-repeat;
+          }
+          .b2b-bg {
+              background-image: url('{{ asset("assets/images/b2b-bg.png") }}');
               background-size: cover;          
               background-position: center;     
               background-repeat: no-repeat;
