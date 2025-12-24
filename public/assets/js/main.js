@@ -83,7 +83,6 @@ $(function() {
         });
     }
     
-    
     $('.testimonial_active').slick({
         autoplay: true,
         autoplaySpeed: 1500,
