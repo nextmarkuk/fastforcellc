@@ -25,7 +25,7 @@
                                     <a class="page-scroll" href="{{ route('website.how-it-works') }}">How it works?</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="page-scroll" href="#blog">Blog</a>
+                                    <a class="page-scroll" href="">Blog</a>
                                 </li>
                             </ul>
                         </div>

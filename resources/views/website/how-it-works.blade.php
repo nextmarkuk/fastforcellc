@@ -8,13 +8,15 @@
         <div class="how-hero-section">
             <div class="how-hero-content">
                 <h1 class="color-white">How it works ?</h1>
-                <p>Your description text goes here.</p>
-                <a href="#" class="btn">Call to Action</a>
+                <p class="color-white">Your description text goes here.</p>
+                <a href="#video-container" class="play-icon">
+                    <img src="{{ asset('assets/images/play-button.png') }}" alt="" class="wd-65">
+                </a>
             </div>
         </div>
     </div>
-    <div class="video-section mb-5">
-        <div class="video-container">
+    <div class="video-section mb-5" id="video-container">
+        <div class="video-container" >
             <iframe
                 src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
                 title="YouTube video"
