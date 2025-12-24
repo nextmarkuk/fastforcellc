@@ -13,4 +13,7 @@ class PagesController extends Controller
     public function services() {
         return view('website.services');
     }
+    public function how_it_works() {
+        return view('website.how-it-works');
+    }
 }

@@ -21,19 +21,18 @@
                                 <li class="nav-item @if(request()->routeIs('website.services')) active @endif">
                                     <a class="page-scroll" href="{{ route('website.services') }}">Services</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="page-scroll" href="#team">Team</a>
+                                <li class="nav-item @if(request()->routeIs('website.how-it-works')) active @endif">
+                                    <a class="page-scroll" href="{{ route('website.how-it-works') }}">How it works?</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="page-scroll" href="#blog">Blog</a>
                                 </li>
                             </ul>
-                        </div> <!-- navbar collapse -->
-                        
+                        </div>
                         <div class="navbar-btn d-none d-sm-inline-block">
                             <a class="main-btn" data-toggle="modal" data-target="#ScheduleMeeting">Schedule a Meeting</a>
                         </div>
-                    </nav> <!-- navbar -->
+                    </nav>
                 </div>
             </div> 
         </div>

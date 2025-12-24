@@ -102,6 +102,9 @@
               background-position: center;     
               background-repeat: no-repeat;
           }
+          .how-hero-section {
+            background-image: url('{{ asset("assets/images/how-it-works.jpg") }}');
+          }
         </style>
     </head>
     <body>

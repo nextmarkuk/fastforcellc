@@ -1,6 +1,6 @@
 @extends('website.layout.app')
 @section('title')
-<title>FastForce — Your One-Window Virtual Assistant & Full-Stack Support Platform.</title>
+<title>FastForce — Services</title>
 @endsection
 @section('content')
 <section class="website-bg">
